@@ -1,2 +1,1 @@
-# hello-word
-my first code
+# my-journey
